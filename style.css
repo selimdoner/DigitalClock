@@ -14,7 +14,7 @@ body {
     overflow: hidden;
 }
 
-#h2{
+#hd2{
     display:inline-flex;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -24,7 +24,7 @@ body {
     border: 5px;
     border-color: #3F8AB5;
 }
-#h22{
+#hd22{
     color: #3F8AB5;
 }
 .clock{
