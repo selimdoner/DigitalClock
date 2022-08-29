@@ -27,6 +27,9 @@ body {
 #hd22{
     color: #3F8AB5;
 }
+#hd23{
+    margin-right: 20px;
+}
 .clock{
     display: flex;
 }

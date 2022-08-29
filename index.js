@@ -19,7 +19,7 @@ function updateClock(){
     minuteEl.innerText=m;
     secondEl.innerText=s;
     ampmEl.innerText=ampm;
-    setTimeout(()=>{},1000)
+    setTimeout(updateClock,1000)
     
 
 }
